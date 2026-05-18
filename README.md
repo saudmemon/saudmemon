@@ -51,11 +51,11 @@ or a startup that needs a full-stack app — I get it built.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=saudmemon&theme=default&hide_border=true&bg_color=ffffff&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=saudmemon&theme=dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=saudmemon&theme=default&hide_border=true&background=ffffff)
+![](https://nirzak-streak-stats.vercel.app/?user=saudmemon&theme=dark&hide_border=true&background=00000000)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saudmemon&theme=default&hide_border=true&bg_color=ffffff&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saudmemon&theme=dark&hide_border=true&bg_color=00000000&layout=compact)
 
 ---
 
