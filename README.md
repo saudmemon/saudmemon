@@ -52,11 +52,15 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=saudmemon&theme=light&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true)
+<!-- GitHub Readme Stats Card -->
+[![Saud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saudmemon&show_icons=true&theme=default)](https://github.com/saudmemon)
 
-![](https://nirzak-streak-stats.vercel.app/?user=saudmemon&theme=light&hide_border=true&background=00000000)
+<!-- Stable GitHub Streak Stats Card -->
+[![Saud's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saudmemon&theme=default)](https://github.com/saudmemon)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saudmemon&theme=light&hide_border=true&bg_color=00000000&layout=compact)
+<!-- Top Languages Card -->
+[![Saud's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saudmemon&layout=compact&theme=default)](https://github.com/saudmemon)
+
 
 ---
 
