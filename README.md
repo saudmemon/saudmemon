@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Saud Ahmed Memon 👋
+# 🚀 Hi there, I'm Saud Ahmed👋
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Saud%20Ahmed%20Memon&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Modern%20Gen%20Z%20Backend%20Developer%20|%20.NET%20•%20Python%20•%20AI&descSize=20&descAlignY=68"/>
